@@ -21,3 +21,4 @@
 * Availability -> Readiness of standards and functionality in commercial products. 
 * Relevance -> Opinion from hyperscalers, partners and customers (should we make a survey?)
 * Priority -> Availability + Relevance 
+* testing for Jan
